@@ -194,10 +194,10 @@
 ## 🤝 **Connect With Us**
 
 ### **Primary Contact**
-- **Email:** contact@jw-nextech-solutions.com
-- **Phone:** +1-555-123-4567
-- **Address:** 123 Tech Avenue, Suite 100, San Francisco, CA 94107
-- **Emergency:** support@jw-nextech-solutions.com (24/7 for existing clients)
+- **Email:** contact@jwnextech.com
+- **Phone:** +919259353159
+- **Address:** Amroha Uttar Pradesh
+- **Emergency:** support@jwnextech.com (24/7 for existing clients)
 
 ### **Social Media**
 <div align="center">
